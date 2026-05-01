@@ -1,0 +1,1524 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ode SYSTEM "content.dtd">
+<ode xmlns="http://www.intef.es/xsd/ode" version="2.0">
+<userPreferences>
+  <userPreference>
+    <key>theme</key>
+    <value>base</value>
+  </userPreference>
+</userPreferences>
+<odeResources>
+  <odeResource>
+    <key>odeId</key>
+    <value>20260501181731824JMN</value>
+  </odeResource>
+  <odeResource>
+    <key>odeVersionId</key>
+    <value>20260501181731N1OG71</value>
+  </odeResource>
+  <odeResource>
+    <key>exe_version</key>
+    <value>3.0</value>
+  </odeResource>
+</odeResources>
+<odeProperties>
+  <odeProperty>
+    <key>pp_title</key>
+    <value>Amazing Cities Project</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_subtitle</key>
+    <value>5º Primaria – Inglés</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_author</key>
+    <value>María Ángeles Vera Sánchez</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_description</key>
+    <value>Proyecto de inglés basado en la investigación de ciudades del mundo y la creación de una presentación digital utilizando comparatives y superlatives.</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_lang</key>
+    <value>en</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_license</key>
+    <value>creative commons: attribution - share alike 4.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_licenseUrl</key>
+    <value>https://creativecommons.org/licenses/by-sa/4.0/</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_theme</key>
+    <value>base</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_exelearning_version</key>
+    <value>v4.0.0-rc3</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_modified</key>
+    <value>1777651561732</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addExeLink</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addPagination</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addSearchBox</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addAccessibilityToolbar</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addMathJax</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>exportSource</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_globalFont</key>
+    <value>default</value>
+  </odeProperty>
+</odeProperties>
+<odeNavStructures>
+<odeNavStructure>
+  <odePageId>page-mon3ubjp-g72jk0d7e</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Presentación</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Presentación</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Presentación</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mon3ubjp-g72jk0d7e</odePageId>
+      <odeBlockId>block-1777579374921-3rsavuch1</odeBlockId>
+      <blockName>Descripción del proyecto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mon3ubjp-g72jk0d7e</odePageId>
+          <odeBlockId>block-1777579374921-3rsavuch1</odeBlockId>
+          <odeIdeviceId>idevice-1777579374920-0tr62ry78</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <div class="exe-text-activity"><dl><div class="inline"><dt><span title="8 o 9 sesiones">8 o 9 sesiones</span></dt><dd></dd></div><div class="inline"><dt><span title="Grupos de 4 ó 5 alumnos. ">Grupos de 4 ó 5 alumnos. </span></dt><dd>Alumnado de 5º de Primaria</dd></div></dl><p>Este proyecto, denominado Amazing Cities, está dirigido al alumnado de 5º de Educación Primaria en el área de Lengua Extranjera (Inglés).</p>
+<p>El objetivo es que el alumnado investigue sobre diferentes ciudades del mundo y elabore una presentación digital utilizando comparatives y superlatives en inglés.</p>
+<p>A través de este proyecto se fomenta el trabajo cooperativo, el uso de herramientas digitales y el desarrollo de la competencia comunicativa.</p>
+<p></p>
+<p><img src="{{context_path}}/content/resources/mceclip0.png" /></p></div>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777579374920-0tr62ry78","textInfoDurationInput":"","textInfoDurationTextInput":"8 o 9 sesiones","textInfoParticipantsInput":"Alumnado de 5º de Primaria","textInfoParticipantsTextInput":"Grupos de 4 ó 5 alumnos. ","textTextarea":"<div class=\"exe-text-activity\"><dl><div class=\"inline\"><dt><span title=\"8 o 9 sesiones\">8 o 9 sesiones</span></dt><dd></dd></div><div class=\"inline\"><dt><span title=\"Grupos de 4 ó 5 alumnos. \">Grupos de 4 ó 5 alumnos. </span></dt><dd>Alumnado de 5º de Primaria</dd></div></dl><p>Este proyecto, denominado Amazing Cities, está dirigido al alumnado de 5º de Educación Primaria en el área de Lengua Extranjera (Inglés).</p>\n<p>El objetivo es que el alumnado investigue sobre diferentes ciudades del mundo y elabore una presentación digital utilizando comparatives y superlatives en inglés.</p>\n<p>A través de este proyecto se fomenta el trabajo cooperativo, el uso de herramientas digitales y el desarrollo de la competencia comunicativa.</p>\n<p></p>\n<p><img src=\"{{context_path}}/content/resources/mceclip0.png\" /></p></div>","textFeedbackInput":"Show Feedback","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mon3ubjq-2zrbplhv5</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Producto Final</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Producto Final</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Producto Final</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mon3ubjq-2zrbplhv5</odePageId>
+      <odeBlockId>block-1777579558774-onjda9r2j</odeBlockId>
+      <blockName>Producto Final del proyecto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mon3ubjq-2zrbplhv5</odePageId>
+          <odeBlockId>block-1777579558774-onjda9r2j</odeBlockId>
+          <odeIdeviceId>idevice-1777579558772-i0oys127k</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>El producto final del proyecto consiste en la elaboración de una presentación digital en grupo sobre una ciudad del mundo.</p>
+<p>El alumnado deberá incluir información sobre monumentos, cultura y gastronomía, utilizando estructuras en inglés como comparatives y superlatives.</p>
+<p>Esta presentación se podrá hacer con Google Slides o con Canva. </p>
+<p>Finalmente, expondrán su trabajo al resto de la clase.</p>
+<p><img src="{{context_path}}/content/resources/Captura de pantalla 2026-04-30 a las 21.40.56.png" width="435" height="432" alt="" /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777579558772-i0oys127k","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>El producto final del proyecto consiste en la elaboración de una presentación digital en grupo sobre una ciudad del mundo.</p>\n<p>El alumnado deberá incluir información sobre monumentos, cultura y gastronomía, utilizando estructuras en inglés como comparatives y superlatives.</p>\n<p>Esta presentación se podrá hacer con Google Slides o con Canva. </p>\n<p>Finalmente, expondrán su trabajo al resto de la clase.</p>\n<p><img src=\"{{context_path}}/content/resources/Captura de pantalla 2026-04-30 a las 21.40.56.png\" width=\"435\" height=\"432\" alt=\"\" /></p>","textFeedbackInput":"Show Feedback","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mon3ubjr-ij8zwsvmo</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Línea temporal</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Línea temporal</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Línea temporal</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mon3ubjr-ij8zwsvmo</odePageId>
+      <odeBlockId>block-1777580044125-rxy14pynj</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mon3ubjr-ij8zwsvmo</odePageId>
+          <odeBlockId>block-1777580044125-rxy14pynj</odeBlockId>
+          <odeIdeviceId>idevice-1777580044124-o50ubgqjh</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>La siguiente imagen muestra la secuenciación del proyecto organizada por sesiones.</p>
+<p></p>
+<p><img src="{{context_path}}/content/resources/Cartel Línea de tiempo Empresarial Cronológico Bloques Multicolor.jpg" width="1414" height="2000" alt="" /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777580044124-o50ubgqjh","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>La siguiente imagen muestra la secuenciación del proyecto organizada por sesiones.</p>\n<p></p>\n<p><img src=\"{{context_path}}/content/resources/Cartel Línea de tiempo Empresarial Cronológico Bloques Multicolor.jpg\" width=\"1414\" height=\"2000\" alt=\"\" /></p>","textFeedbackInput":"Show Feedback","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mon3ubjr-1mmeruvy8</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Actividades</pageName>
+  <odeNavStructureOrder>3</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Actividades</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Actividades</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mon3ubjr-1mmeruvy8</odePageId>
+      <odeBlockId>block-1777579666198-sil615qvk</odeBlockId>
+      <blockName>Actividades del proyecto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mon3ubjr-1mmeruvy8</odePageId>
+          <odeBlockId>block-1777579666198-sil615qvk</odeBlockId>
+          <odeIdeviceId>idevice-1777579666195-n943qnwhe</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>El proyecto se desarrolla a lo largo de 9 sesiones, en las que el alumnado realiza diferentes actividades:</p>
+<p><strong>Sesión 1: </strong>Activación de conocimientos previos mediante vídeo</p>
+<p><strong>Sesiones 2-3: </strong>Trabajo con Padlet y explicación de comparatives y superlatives<br /><strong></strong></p>
+<p><strong>Sesión 4:</strong> Búsqueda y organización de la información sobre una ciudad<br /><strong></strong></p>
+<p><strong>Sesiones 5-6: </strong>Creación de una presentación digital<br /><strong></strong></p>
+<p><strong>Sesiones 7-8:</strong> Exposición oral<br /><strong></strong></p>
+<p><strong>Sesión 9:</strong> Autoevaluación y coevaluación</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777579666195-n943qnwhe","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>El proyecto se desarrolla a lo largo de 9 sesiones, en las que el alumnado realiza diferentes actividades:</p>\n<p><strong>Sesión 1: </strong>Activación de conocimientos previos mediante vídeo</p>\n<p><strong>Sesiones 2-3: </strong>Trabajo con Padlet y explicación de comparatives y superlatives<br /><strong></strong></p>\n<p><strong>Sesión 4:</strong> Búsqueda y organización de la información sobre una ciudad<br /><strong></strong></p>\n<p><strong>Sesiones 5-6: </strong>Creación de una presentación digital<br /><strong></strong></p>\n<p><strong>Sesiones 7-8:</strong> Exposición oral<br /><strong></strong></p>\n<p><strong>Sesión 9:</strong> Autoevaluación y coevaluación</p>","textFeedbackInput":"Show Feedback","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mon3ubjr-bpnxf3zeq</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Sesión 1</pageName>
+  <odeNavStructureOrder>4</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Sesión 1</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Sesión 1</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mon3ubjr-bpnxf3zeq</odePageId>
+      <odeBlockId>block-1777649154941-gj7bat5um</odeBlockId>
+      <blockName>Ideas Previas</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mon3ubjr-bpnxf3zeq</odePageId>
+          <odeBlockId>block-1777649154941-gj7bat5um</odeBlockId>
+          <odeIdeviceId>idevice-1777649154937-vtj15swzu</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><strong>¿Qué sabemos de los adjetivos comparativos y superlativos en inglés?</strong></p>
+<p>Hagamos una lluvia de ideas: </p>
+<p><br /></p>
+<p><img src="{{context_path}}/content/resources/mceclip1_1.png" /></p>
+<p>----------------------------------------------------------------------------------------------------------</p>
+<p><strong>Criterio de evaluación: </strong></p>
+<p><strong>CE.LE.3.1 </strong>Participar en interacciones orales breves y sencillas, utilizando estrategias básicas para iniciar, mantener y finalizar la comunicación en situaciones cotidianas.</p>
+<p></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777649154937-vtj15swzu","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><strong>¿Qué sabemos de los adjetivos comparativos y superlativos en inglés?</strong></p>\n<p>Hagamos una lluvia de ideas: </p>\n<p><br /></p>\n<p><img src=\"{{context_path}}/content/resources/mceclip1_1.png\" /></p>\n<p>----------------------------------------------------------------------------------------------------------</p>\n<p><strong>Criterio de evaluación: </strong></p>\n<p><strong>CE.LE.3.1 </strong>Participar en interacciones orales breves y sencillas, utilizando estrategias básicas para iniciar, mantener y finalizar la comunicación en situaciones cotidianas.</p>\n<p></p>","textFeedbackInput":"Show Feedback","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mon3ubjs-dfms7yasa</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Sesiones 2-3</pageName>
+  <odeNavStructureOrder>5</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Sesiones 2-3</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Sesiones 2-3</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Sesiones 2-3</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mon3ubjs-dfms7yasa</odePageId>
+      <odeBlockId>block-1777648925220-nd9l9gakf</odeBlockId>
+      <blockName>Comparatives and Superlatives</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mon3ubjs-dfms7yasa</odePageId>
+          <odeBlockId>block-1777648925220-nd9l9gakf</odeBlockId>
+          <odeIdeviceId>idevice-1777648925217-erxphl719</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <div class="exe-text-activity"><dl><div class="inline"><dt><span title="Duración">Duración</span></dt><dd>1:30</dd></div><div class="inline"><dt><span title="Agrupamiento">Agrupamiento</span></dt><dd>Grupo de 4 o 5</dd></div></dl><p>Vamos a aprender a usar los comparativos y superlativos en inglés.</p>
+<p>Haz click en el link que tienes a continuación y tendrás acceso a cuatro actividades y vídeos diferentes:</p>
+<p><br /></p>
+<p><a href="https://padlet.com/mversan693/frayer-model-bj274m3ryhe6lobd?frame_id=page%3A9n5t_MxAezIE8R764dcG5">https://padlet.com/mversan693/frayer-model-bj274m3ryhe6lobd?frame_id=page%3A9n5t_MxAezIE8R764dcG5</a></p>
+<p><br /></p>
+<p><img src="{{context_path}}/content/resources/mceclip0_1.png" /></p>
+<p>Ahora vamos a comprobar lo que hemos aprendido. Haz click en los enlaces de LIVEWORKSHEETS y cuando obtengas una calificación superior a 7, haz un pantallazo a tu nota y adjunta ese pantallazo a la actividad de Google Classroom que hemos asignado para esta tarea llamada: COMPARATIVES AND SUPERLATIVES.</p>
+<p><br /></p>
+<p><strong>LINKS: </strong></p>
+<p><strong></strong><br /></p>
+<p><strong>Comparatives: </strong></p>
+<p><a href="https://www.liveworksheets.com/es/worksheet/en/english-second-language-esl/101742">https://www.liveworksheets.com/es/worksheet/en/english-second-language-esl/101742</a></p>
+<p><strong>Superlatives:</strong></p>
+<p><a href="https://www.liveworksheets.com/es/worksheet/en/english-second-language-esl/44786">https://www.liveworksheets.com/es/worksheet/en/english-second-language-esl/44786</a></p>
+<p><br /></p>
+<p>-------------------------------------------------------------------------------------------------------</p>
+<p><strong>Criterio de evaluación:</strong></p>
+<p><strong>CE.LE.3.2 </strong>Comprender el sentido global y localizar información específica en textos escritos breves y sencillos.</p></div>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777648925217-erxphl719","textInfoDurationInput":"1:30","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"Grupo de 4 o 5","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<div class=\"exe-text-activity\"><dl><div class=\"inline\"><dt><span title=\"Duración\">Duración</span></dt><dd>1:30</dd></div><div class=\"inline\"><dt><span title=\"Agrupamiento\">Agrupamiento</span></dt><dd>Grupo de 4 o 5</dd></div></dl><p>Vamos a aprender a usar los comparativos y superlativos en inglés.</p>\n<p>Haz click en el link que tienes a continuación y tendrás acceso a cuatro actividades y vídeos diferentes:</p>\n<p><br /></p>\n<p><a href=\"https://padlet.com/mversan693/frayer-model-bj274m3ryhe6lobd?frame_id=page%3A9n5t_MxAezIE8R764dcG5\">https://padlet.com/mversan693/frayer-model-bj274m3ryhe6lobd?frame_id=page%3A9n5t_MxAezIE8R764dcG5</a></p>\n<p><br /></p>\n<p><img src=\"{{context_path}}/content/resources/mceclip0_1.png\" /></p>\n<p>Ahora vamos a comprobar lo que hemos aprendido. Haz click en los enlaces de LIVEWORKSHEETS y cuando obtengas una calificación superior a 7, haz un pantallazo a tu nota y adjunta ese pantallazo a la actividad de Google Classroom que hemos asignado para esta tarea llamada: COMPARATIVES AND SUPERLATIVES.</p>\n<p><br /></p>\n<p><strong>LINKS: </strong></p>\n<p><strong></strong><br /></p>\n<p><strong>Comparatives: </strong></p>\n<p><a href=\"https://www.liveworksheets.com/es/worksheet/en/english-second-language-esl/101742\">https://www.liveworksheets.com/es/worksheet/en/english-second-language-esl/101742</a></p>\n<p><strong>Superlatives:</strong></p>\n<p><a href=\"https://www.liveworksheets.com/es/worksheet/en/english-second-language-esl/44786\">https://www.liveworksheets.com/es/worksheet/en/english-second-language-esl/44786</a></p>\n<p><br /></p>\n<p>-------------------------------------------------------------------------------------------------------</p>\n<p><strong>Criterio de evaluación:</strong></p>\n<p><strong>CE.LE.3.2 </strong>Comprender el sentido global y localizar información específica en textos escritos breves y sencillos.</p></div>","textFeedbackInput":"Show Feedback","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mon3ubjs-ydl4vur1q</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Sesión 4</pageName>
+  <odeNavStructureOrder>6</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Sesión 4</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Sesión 4</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mon3ubjs-ydl4vur1q</odePageId>
+      <odeBlockId>block-1777649314300-z3hsldc0x</odeBlockId>
+      <blockName>Búsqueda de información sobre una ciudad</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mon3ubjs-ydl4vur1q</odePageId>
+          <odeBlockId>block-1777649314300-z3hsldc0x</odeBlockId>
+          <odeIdeviceId>idevice-1777649314297-7c4c7z8d6</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><strong>Choose a city and create your project:</strong><strong></strong></p>
+<p>Work in groups.<br />Choose one city from the list.<br />Find information about your city.<br />Look for monuments, food, culture and famous places.<br />Write sentences using comparatives and superlatives.<br />Prepare a digital presentation and present it to the class.</p>
+<p><br /></p>
+<p><img src="{{context_path}}/content/resources/mceclip2.png" width="577" height="439" /></p>
+<p><span style="background-color: #fbeeb8; color: #000000;">Use these links to look for the information about your city:</span></p>
+<p>https://kids.nationalgeographic.com<br />https://www.ducksters.com<br />https://www.kiddle.co<br />https://www.britannica.com/kids<br />https://www.visitacity.com<br />https://www.google.com</p>
+<p>------------------------------------------------------------------------------------------------------------</p>
+<p><strong>Criterio de evaluación:</strong></p>
+<p><strong>CE.LE.3.3</strong> Producir textos escritos breves y sencillos adecuados a la situación comunicativa.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777649314297-7c4c7z8d6","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><strong>Choose a city and create your project:</strong><strong></strong></p>\n<p>Work in groups.<br />Choose one city from the list.<br />Find information about your city.<br />Look for monuments, food, culture and famous places.<br />Write sentences using comparatives and superlatives.<br />Prepare a digital presentation and present it to the class.</p>\n<p><br /></p>\n<p><img src=\"{{context_path}}/content/resources/mceclip2.png\" width=\"577\" height=\"439\" /></p>\n<p><span style=\"background-color: #fbeeb8; color: #000000;\">Use these links to look for the information about your city:</span></p>\n<p>https://kids.nationalgeographic.com<br />https://www.ducksters.com<br />https://www.kiddle.co<br />https://www.britannica.com/kids<br />https://www.visitacity.com<br />https://www.google.com</p>\n<p>------------------------------------------------------------------------------------------------------------</p>\n<p><strong>Criterio de evaluación:</strong></p>\n<p><strong>CE.LE.3.3</strong> Producir textos escritos breves y sencillos adecuados a la situación comunicativa.</p>","textFeedbackInput":"Show Feedback","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mon3ubjs-6a1xiurp3</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Sesiones 5-6</pageName>
+  <odeNavStructureOrder>7</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Sesiones 5-6</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Sesiones 5-6</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mon3ubjs-6a1xiurp3</odePageId>
+      <odeBlockId>block-1777649522650-5ju72osx7</odeBlockId>
+      <blockName>Creación de una presentación digital</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mon3ubjs-6a1xiurp3</odePageId>
+          <odeBlockId>block-1777649522650-5ju72osx7</odeBlockId>
+          <odeIdeviceId>idevice-1777649522648-lh0nyjoqk</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><span style="font-size: 24pt; color: #843fa1;"><strong>DIGITAL PRESENTATION TASK</strong></span></p>
+<p><br /><strong>Create your presentation:</strong><br />Work with your group and create a digital presentation using Google Slides or Canva.<br />All the work will be done in class.</p>
+<p><br /></p>
+<p><strong>Before starting</strong><br />First, you will write a draft in class.<br />The teacher will check your work.<br />After correction, you will create the final digital presentation.</p>
+<p><span style="color: #843fa1;"><strong>Structure of the presentation:</strong></span></p>
+<p><br /><span style="color: #843fa1;">Slide 1: Introduction</span></p>
+<p>Name of the city<br />Country<br />Basic information about the city<br /><span style="color: #843fa1;"> </span><br /><span style="color: #843fa1;">Slides 2–6: Comparatives</span></p>
+<p>Compare places, food or monuments<br />Use comparatives (bigger than, more interesting than…)<br />Example:<br />Paris is more beautiful than London.</p>
+<p><span style="color: #843fa1;"> </span><br /><span style="color: #843fa1;">Slides 7–11: Superlatives</span></p>
+<p>Describe the most important things<br />Use superlatives (the biggest, the most famous…)<br />Example:<br />The Eiffel Tower is the most famous monument.</p>
+<p> <br />🟪 What to include:<br />Monuments<br />Food<br />Famous places<br />Images<br /> <br />🟧 Important<br />Use simple English<br />Work in your group<br />Follow the structure<br />Do the work in class (not at home)<br /> <br />🟫 Final task<br />Present your project to the class.</p>
+<p><br /></p>
+<p><img src="{{context_path}}/content/resources/mceclip3.png" width="484" height="424" /></p>
+<p> <br /><br /></p>
+<p> <br /><br /> ----------------------------------------------------------------------------------------------------------</p>
+<p><strong>Criterio de evaluación:</strong></p>
+<p><strong>CE.LE.3.5 </strong>Crear contenidos digitales sencillos integrando información en distintos formatos y utilizando herramientas digitales de forma segura. <br /> </p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777649522648-lh0nyjoqk","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><span style=\"font-size: 24pt; color: #843fa1;\"><strong>DIGITAL PRESENTATION TASK</strong></span></p>\n<p><br /><strong>Create your presentation:</strong><br />Work with your group and create a digital presentation using Google Slides or Canva.<br />All the work will be done in class.</p>\n<p><br /></p>\n<p><strong>Before starting</strong><br />First, you will write a draft in class.<br />The teacher will check your work.<br />After correction, you will create the final digital presentation.</p>\n<p><span style=\"color: #843fa1;\"><strong>Structure of the presentation:</strong></span></p>\n<p><br /><span style=\"color: #843fa1;\">Slide 1: Introduction</span></p>\n<p>Name of the city<br />Country<br />Basic information about the city<br /><span style=\"color: #843fa1;\"> </span><br /><span style=\"color: #843fa1;\">Slides 2–6: Comparatives</span></p>\n<p>Compare places, food or monuments<br />Use comparatives (bigger than, more interesting than…)<br />Example:<br />Paris is more beautiful than London.</p>\n<p><span style=\"color: #843fa1;\"> </span><br /><span style=\"color: #843fa1;\">Slides 7–11: Superlatives</span></p>\n<p>Describe the most important things<br />Use superlatives (the biggest, the most famous…)<br />Example:<br />The Eiffel Tower is the most famous monument.</p>\n<p> <br />🟪 What to include:<br />Monuments<br />Food<br />Famous places<br />Images<br /> <br />🟧 Important<br />Use simple English<br />Work in your group<br />Follow the structure<br />Do the work in class (not at home)<br /> <br />🟫 Final task<br />Present your project to the class.</p>\n<p><br /></p>\n<p><img src=\"{{context_path}}/content/resources/mceclip3.png\" width=\"484\" height=\"424\" /></p>\n<p> <br /><br /></p>\n<p> <br /><br /> ----------------------------------------------------------------------------------------------------------</p>\n<p><strong>Criterio de evaluación:</strong></p>\n<p><strong>CE.LE.3.5 </strong>Crear contenidos digitales sencillos integrando información en distintos formatos y utilizando herramientas digitales de forma segura. <br /> </p>","textFeedbackInput":"Show Feedback","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mon3ubjs-l7j9ctq3u</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Sesiones 7-8</pageName>
+  <odeNavStructureOrder>8</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Sesiones 7-8</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Sesiones 7-8</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mon3ubjs-l7j9ctq3u</odePageId>
+      <odeBlockId>block-1777650030170-zo1xd1a43</odeBlockId>
+      <blockName>Oral Presentation</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mon3ubjs-l7j9ctq3u</odePageId>
+          <odeBlockId>block-1777650030170-zo1xd1a43</odeBlockId>
+          <odeIdeviceId>idevice-1777650030168-8i8kc5orw</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><span style="color: #169179; font-size: 24pt;"><strong> ORAL PRESENTATION</strong></span><br />Present your project<br />Work with your group and present your city to the class.</p>
+<p> <br />🟦 What to do<br />Speak in English<br />Use your presentation (Google Slides or Canva)<br />Explain your city clearly<br /> <br />🟨 What to include<br />Name of the city and country<br />Monuments and famous places<br />Food and interesting facts<br />Comparatives and superlatives<br /> <br />🟪 Tips<br />Speak slowly and clearly<br />Look at your classmates<br />Do not read all the time<br />Practice before presenting<br /> <br />🟧 Group work<br />All students must participate<br />Each student must speak<br /> <br /><img src="{{context_path}}/content/resources/mceclip4.png" width="493" height="460" /><br /></p>
+<p></p>
+<p>-------------------------------------------------------------------------------------------------------</p>
+<p><strong>Criterio de evaluación:</strong></p>
+<p><strong>CE.LE.3.4</strong> Expresarse oralmente de forma comprensible utilizando recursos lingüísticos básicos.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777650030168-8i8kc5orw","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><span style=\"color: #169179; font-size: 24pt;\"><strong> ORAL PRESENTATION</strong></span><br />Present your project<br />Work with your group and present your city to the class.</p>\n<p> <br />🟦 What to do<br />Speak in English<br />Use your presentation (Google Slides or Canva)<br />Explain your city clearly<br /> <br />🟨 What to include<br />Name of the city and country<br />Monuments and famous places<br />Food and interesting facts<br />Comparatives and superlatives<br /> <br />🟪 Tips<br />Speak slowly and clearly<br />Look at your classmates<br />Do not read all the time<br />Practice before presenting<br /> <br />🟧 Group work<br />All students must participate<br />Each student must speak<br /> <br /><img src=\"{{context_path}}/content/resources/mceclip4.png\" width=\"493\" height=\"460\" /><br /></p>\n<p></p>\n<p>-------------------------------------------------------------------------------------------------------</p>\n<p><strong>Criterio de evaluación:</strong></p>\n<p><strong>CE.LE.3.4</strong> Expresarse oralmente de forma comprensible utilizando recursos lingüísticos básicos.</p>","textFeedbackInput":"Show Feedback","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mon3ubjs-ndy9220lo</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Sesión 9</pageName>
+  <odeNavStructureOrder>9</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Sesión 9</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Sesión 9</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mon3ubjs-ndy9220lo</odePageId>
+      <odeBlockId>block-1777650359695-h47q5ycyc</odeBlockId>
+      <blockName>Self- evaluation</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mon3ubjs-ndy9220lo</odePageId>
+          <odeBlockId>block-1777650359695-h47q5ycyc</odeBlockId>
+          <odeIdeviceId>idevice-1777650359694-9ezcqsjjx</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><span style="font-size: 24pt; color: #169179;">SESSION 9 – REFLECTION AND EVALUATION</span><br /></p>
+<p>Final reflection<br />In this session, you will think about your work and your learning.</p>
+<p> <br />🟦 <strong>What to do</strong><br />Complete the self-evaluation (Google Forms)<br />Answer all the questions honestly<br />Think about your participation and your work<br /> <br />🟨 <strong>Reflection</strong><br />What did you learn?<br />What was easy or difficult?<br />What can you improve?<br /> <br />🟪 <strong>Group reflection</strong><br />Talk with your group about the project<br />Share your opinions<br />Listen to your classmates<br /> <br />🟧 <strong>Teacher feedback</strong><br />The teacher will give feedback about your work<br />You will learn how to improve<br /> <br />🟫 <strong>Remember</strong><br />Be honest<br />Respect others<br />Think about your learning</p>
+<p><br /></p>
+<p>Now, click on the link below and answer the questions: </p>
+<p><a href="https://docs.google.com/forms/d/1moqVzNWf72s-e3CRgeR9YF30gMgcS9QTpgnCO9AHjLw/edit">https://docs.google.com/forms/d/1moqVzNWf72s-e3CRgeR9YF30gMgcS9QTpgnCO9AHjLw/edit</a></p>
+<p><img src="{{context_path}}/content/resources/mceclip5.png" width="703" height="450" /></p>
+<p><br /></p>
+<p>------------------------------------------------------------------------------------------------------</p>
+<p><strong>Criterio de evaluación:</strong></p>
+<p><strong>CE.LE.3.6</strong> Reflexionar sobre el propio aprendizaje y participar en procesos de autoevaluación y coevaluación.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777650359694-9ezcqsjjx","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><span style=\"font-size: 24pt; color: #169179;\">SESSION 9 – REFLECTION AND EVALUATION</span><br /></p>\n<p>Final reflection<br />In this session, you will think about your work and your learning.</p>\n<p> <br />🟦 <strong>What to do</strong><br />Complete the self-evaluation (Google Forms)<br />Answer all the questions honestly<br />Think about your participation and your work<br /> <br />🟨 <strong>Reflection</strong><br />What did you learn?<br />What was easy or difficult?<br />What can you improve?<br /> <br />🟪 <strong>Group reflection</strong><br />Talk with your group about the project<br />Share your opinions<br />Listen to your classmates<br /> <br />🟧 <strong>Teacher feedback</strong><br />The teacher will give feedback about your work<br />You will learn how to improve<br /> <br />🟫 <strong>Remember</strong><br />Be honest<br />Respect others<br />Think about your learning</p>\n<p><br /></p>\n<p>Now, click on the link below and answer the questions: </p>\n<p><a href=\"https://docs.google.com/forms/d/1moqVzNWf72s-e3CRgeR9YF30gMgcS9QTpgnCO9AHjLw/edit\">https://docs.google.com/forms/d/1moqVzNWf72s-e3CRgeR9YF30gMgcS9QTpgnCO9AHjLw/edit</a></p>\n<p><img src=\"{{context_path}}/content/resources/mceclip5.png\" width=\"703\" height=\"450\" /></p>\n<p><br /></p>\n<p>------------------------------------------------------------------------------------------------------</p>\n<p><strong>Criterio de evaluación:</strong></p>\n<p><strong>CE.LE.3.6</strong> Reflexionar sobre el propio aprendizaje y participar en procesos de autoevaluación y coevaluación.</p>","textFeedbackInput":"Show Feedback","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mon3ubjt-lqyodadte</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Herramientas digitales</pageName>
+  <odeNavStructureOrder>10</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Herramientas digitales</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Herramientas digitales</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mon3ubjt-lqyodadte</odePageId>
+      <odeBlockId>block-1777579795879-vpvxx5xk2</odeBlockId>
+      <blockName>Herramientas digitales</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mon3ubjt-lqyodadte</odePageId>
+          <odeBlockId>block-1777579795879-vpvxx5xk2</odeBlockId>
+          <odeIdeviceId>idevice-1777579795875-n9hdtzurw</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Durante el desarrollo del proyecto se utilizarán diferentes herramientas digitales que facilitarán el aprendizaje del alumnado de forma activa y colaborativa.</p>
+<p><strong>Padlet:</strong> se utilizará para presentar y reforzar los contenidos de comparatives y superlatives, así como para que el alumnado consulte información de apoyo.<br /><strong></strong></p>
+<p><strong>Google Slides:</strong> permitirá al alumnado crear su presentación digital sobre la ciudad elegida.<br /><strong></strong></p>
+<p><strong>Google Forms:</strong> se utilizará como instrumento de evaluación para comprobar la comprensión de los contenidos trabajados.<br /></p>
+<p>Estas herramientas favorecen el trabajo cooperativo, la creatividad y el desarrollo de la competencia digital.</p>
+<p></p>
+<p><img src="{{context_path}}/content/resources/mceclip1.png" width="605" height="596" /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777579795875-n9hdtzurw","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Durante el desarrollo del proyecto se utilizarán diferentes herramientas digitales que facilitarán el aprendizaje del alumnado de forma activa y colaborativa.</p>\n<p><strong>Padlet:</strong> se utilizará para presentar y reforzar los contenidos de comparatives y superlatives, así como para que el alumnado consulte información de apoyo.<br /><strong></strong></p>\n<p><strong>Google Slides:</strong> permitirá al alumnado crear su presentación digital sobre la ciudad elegida.<br /><strong></strong></p>\n<p><strong>Google Forms:</strong> se utilizará como instrumento de evaluación para comprobar la comprensión de los contenidos trabajados.<br /></p>\n<p>Estas herramientas favorecen el trabajo cooperativo, la creatividad y el desarrollo de la competencia digital.</p>\n<p></p>\n<p><img src=\"{{context_path}}/content/resources/mceclip1.png\" width=\"605\" height=\"596\" /></p>","textFeedbackInput":"Show Feedback","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mon3ubjt-w8p7e3n0f</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Evaluación</pageName>
+  <odeNavStructureOrder>11</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Evaluación</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Evaluación</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mon3ubjt-w8p7e3n0f</odePageId>
+      <odeBlockId>block-1777580101261-7afnm95qs</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mon3ubjt-w8p7e3n0f</odePageId>
+          <odeBlockId>block-1777580101261-7afnm95qs</odeBlockId>
+          <odeIdeviceId>idevice-1777580101258-s4gqmu14l</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>La evaluación del proyecto se realizará mediante diferentes instrumentos que permiten valorar tanto el proceso como el resultado final del alumnado:</p>
+<p><strong>Rúbrica de exposición oral (tipo Séneca): </strong>se utilizará para evaluar la exposición final del proyecto, teniendo en cuenta aspectos como la expresión oral, el vocabulario, el contenido, el uso de herramientas digitales y el trabajo en grupo.<br /></p>
+<p><strong>Cuestionario digital (Google Forms):</strong> permitirá comprobar la comprensión de los contenidos trabajados, especialmente los comparatives y superlatives.<br /></p>
+<p><strong>Autoevaluación y coevaluación:</strong> el alumnado reflexionará sobre su propio trabajo y el del grupo, valorando su implicación y aprendizaje.<br /></p>
+<p></p>
+<p>Estos instrumentos permiten obtener una visión completa del aprendizaje del alumnado y facilitar la retroalimentación.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777580101258-s4gqmu14l","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>La evaluación del proyecto se realizará mediante diferentes instrumentos que permiten valorar tanto el proceso como el resultado final del alumnado:</p>\n<p><strong>Rúbrica de exposición oral (tipo Séneca): </strong>se utilizará para evaluar la exposición final del proyecto, teniendo en cuenta aspectos como la expresión oral, el vocabulario, el contenido, el uso de herramientas digitales y el trabajo en grupo.<br /></p>\n<p><strong>Cuestionario digital (Google Forms):</strong> permitirá comprobar la comprensión de los contenidos trabajados, especialmente los comparatives y superlatives.<br /></p>\n<p><strong>Autoevaluación y coevaluación:</strong> el alumnado reflexionará sobre su propio trabajo y el del grupo, valorando su implicación y aprendizaje.<br /></p>\n<p></p>\n<p>Estos instrumentos permiten obtener una visión completa del aprendizaje del alumnado y facilitar la retroalimentación.</p>","textFeedbackInput":"Show Feedback","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mon3ubjt-isqcjpy9u</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Guía Didáctica</pageName>
+  <odeNavStructureOrder>12</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Guía Didáctica</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Guía Didáctica</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mon3ubjt-isqcjpy9u</odePageId>
+      <odeBlockId>block-1777580177375-lgli2f8ra</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mon3ubjt-isqcjpy9u</odePageId>
+          <odeBlockId>block-1777580177375-lgli2f8ra</odeBlockId>
+          <odeIdeviceId>idevice-1777580177373-ls36hl3dx</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><br /></p>
+<p><span style="font-size: 24pt;"><strong>GUÍA DIDÁCTICA</strong></span></p>
+<p><br />Este proyecto está dirigido al alumnado de 5º de Educación Primaria en el área de Lengua Extranjera (Inglés).</p>
+<p>Se basa en una metodología activa y cooperativa, en la que el alumnado aprende a través de la investigación y la creación de un producto final.</p>
+<p>El trabajo se realiza en grupos de 4 o 5 alumnos, fomentando la colaboración, la participación y el aprendizaje entre iguales.</p>
+<p>La <strong>temporalización</strong> es de 8 o 9 sesiones, aunque es flexible y puede adaptarse en función del ritmo del grupo, pudiendo desarrollarse en menos sesiones si fuera necesario.</p>
+<p>El uso de <strong>herramientas digitales</strong> se realiza de forma guiada, promoviendo un uso responsable, seguro y adecuado de las tecnologías.</p>
+<p> <br /><span style="font-size: 18pt;"><strong>Atención a la diversidad</strong></span></p>
+<p><br />Se tendrán en cuenta las características del alumnado, adaptando las actividades cuando sea necesario y ofreciendo apoyo en el uso de herramientas digitales para garantizar la participación de todos.</p>
+<p>Se facilitarán modelos, ejemplos y ayuda guiada para el alumnado que lo necesite, especialmente en la construcción de oraciones con comparatives y superlatives.</p>
+<p> <br /><span style="font-size: 14pt;"><strong>Relación entre actividades y evaluación</strong></span></p>
+<p><br />Las actividades del proyecto están relacionadas con los criterios de evaluación del área de Lengua Extranjera.</p>
+<p>La investigación sobre la ciudad permite trabajar la comprensión de información en inglés.<br />La creación del borrador y de la presentación digital permite evaluar la producción escrita utilizando comparatives y superlatives.<br />La exposición oral permite evaluar la expresión oral, la pronunciación y la capacidad de comunicar información.<br />Las actividades de revisión y mejora permiten observar el progreso del alumnado durante el proceso.<br /> <br /><span style="font-size: 14pt;"><strong>Procedimiento de evaluación</strong></span></p>
+<p><br />La evaluación será continua a lo largo de todo el proyecto.</p>
+<p>Se utilizarán diferentes <strong>instrumentos de evaluación</strong>:</p>
+<p>-<strong><span style="color: #000000;"><em>Rúbrica de expresión oral </em></span></strong>para la exposición final en Séneca. </p>
+<p><br />-<em><strong>Cuestionario digital (Liveworksheets)</strong></em> para comprobar el uso de comparatives y superlatives.</p>
+<p>-<em><strong>Cuestionario de Google Forms</strong></em> para la autoevaluación del alumnado y reflexión de su proceso de aprendizaje durante el proyecto.</p>
+<p>Los datos obtenidos permitirán valorar el progreso del alumnado y detectar posibles dificultades, con el fin de ajustar la enseñanza y mejorar el aprendizaje.</p>
+<p></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777580177373-ls36hl3dx","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><br /></p>\n<p><span style=\"font-size: 24pt;\"><strong>GUÍA DIDÁCTICA</strong></span></p>\n<p><br />Este proyecto está dirigido al alumnado de 5º de Educación Primaria en el área de Lengua Extranjera (Inglés).</p>\n<p>Se basa en una metodología activa y cooperativa, en la que el alumnado aprende a través de la investigación y la creación de un producto final.</p>\n<p>El trabajo se realiza en grupos de 4 o 5 alumnos, fomentando la colaboración, la participación y el aprendizaje entre iguales.</p>\n<p>La <strong>temporalización</strong> es de 8 o 9 sesiones, aunque es flexible y puede adaptarse en función del ritmo del grupo, pudiendo desarrollarse en menos sesiones si fuera necesario.</p>\n<p>El uso de <strong>herramientas digitales</strong> se realiza de forma guiada, promoviendo un uso responsable, seguro y adecuado de las tecnologías.</p>\n<p> <br /><span style=\"font-size: 18pt;\"><strong>Atención a la diversidad</strong></span></p>\n<p><br />Se tendrán en cuenta las características del alumnado, adaptando las actividades cuando sea necesario y ofreciendo apoyo en el uso de herramientas digitales para garantizar la participación de todos.</p>\n<p>Se facilitarán modelos, ejemplos y ayuda guiada para el alumnado que lo necesite, especialmente en la construcción de oraciones con comparatives y superlatives.</p>\n<p> <br /><span style=\"font-size: 14pt;\"><strong>Relación entre actividades y evaluación</strong></span></p>\n<p><br />Las actividades del proyecto están relacionadas con los criterios de evaluación del área de Lengua Extranjera.</p>\n<p>La investigación sobre la ciudad permite trabajar la comprensión de información en inglés.<br />La creación del borrador y de la presentación digital permite evaluar la producción escrita utilizando comparatives y superlatives.<br />La exposición oral permite evaluar la expresión oral, la pronunciación y la capacidad de comunicar información.<br />Las actividades de revisión y mejora permiten observar el progreso del alumnado durante el proceso.<br /> <br /><span style=\"font-size: 14pt;\"><strong>Procedimiento de evaluación</strong></span></p>\n<p><br />La evaluación será continua a lo largo de todo el proyecto.</p>\n<p>Se utilizarán diferentes <strong>instrumentos de evaluación</strong>:</p>\n<p>-<strong><span style=\"color: #000000;\"><em>Rúbrica de expresión oral </em></span></strong>para la exposición final en Séneca. </p>\n<p><br />-<em><strong>Cuestionario digital (Liveworksheets)</strong></em> para comprobar el uso de comparatives y superlatives.</p>\n<p>-<em><strong>Cuestionario de Google Forms</strong></em> para la autoevaluación del alumnado y reflexión de su proceso de aprendizaje durante el proyecto.</p>\n<p>Los datos obtenidos permitirán valorar el progreso del alumnado y detectar posibles dificultades, con el fin de ajustar la enseñanza y mejorar el aprendizaje.</p>\n<p></p>","textFeedbackInput":"Show Feedback","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mon3ubjt-u31sgwfh5</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Créditos</pageName>
+  <odeNavStructureOrder>13</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Créditos</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Créditos</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mon3ubjt-u31sgwfh5</odePageId>
+      <odeBlockId>block-1777580258090-qz0c29d0p</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mon3ubjt-u31sgwfh5</odePageId>
+          <odeBlockId>block-1777580258090-qz0c29d0p</odeBlockId>
+          <odeIdeviceId>idevice-1777580258087-szufjco7c</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Proyecto elaborado por María Ángeles Vera.</p>
+<p>Dirigido al alumnado de 5º de Educación Primaria en el área de Lengua Extranjera (Inglés).</p>
+<p>Recursos utilizados con fines educativos.</p>
+<p>Las imágenes empleadas proceden de bancos de imágenes de uso libre.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777580258087-szufjco7c","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Proyecto elaborado por María Ángeles Vera.</p>\n<p>Dirigido al alumnado de 5º de Educación Primaria en el área de Lengua Extranjera (Inglés).</p>\n<p>Recursos utilizados con fines educativos.</p>\n<p>Las imágenes empleadas proceden de bancos de imágenes de uso libre.</p>","textFeedbackInput":"Show Feedback","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+</odeNavStructures>
+</ode>
